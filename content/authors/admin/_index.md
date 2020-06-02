@@ -15,6 +15,7 @@ interests:
 - Decision-Making
 - Gender Stereotypes
 - Qualitative Methodologies.
+- Mental Health
 organizations:
 - name: University of Manchester
   url: ""
